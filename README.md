@@ -7,6 +7,11 @@ This library is a very cute little implementation of [Facebook's Time Series Dat
 The purpose of this library is to compactly store Orchestrator-local time series data on disk. The idea
 is to use Gorilla's compaction to deflate data, and then have some sort of data storage scheme around it.
 
+# Links
+
+* For bit fiddling on floating point numbers, [this](https://www.exploringbinary.com/floating-point-converter/) is
+  a calculator that apparently is not buggy. Of course, IEx will do the trick as well.
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
