@@ -1,11 +1,11 @@
 # Marmoset
 
-Marmosets are very cute little monkeys, certainly in comparison with our cousin the Gorrilla.
+Marmosets are very cute little monkeys, certainly in comparison with our cousin the Gorilla.
 
 This library is a very cute little implementation of [Facebook's Time Series Database](https://web.archive.org/web/20210811185230/https://www.vldb.org/pvldb/vol8/p1816-teller.pdf).
 
 The purpose of this library is to compactly store Orchestrator-local time series data on disk. The idea
-is to use Gorrilla's compaction to deflate data, and then have some sort of data storage scheme around it.
+is to use Gorilla's compaction to deflate data, and then have some sort of data storage scheme around it.
 
 ## Installation
 
